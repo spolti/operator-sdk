@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5ea232b63fa1a6c53f3eece3533d7745e8bee84f88cd3fbba04cde9c7a2acc36"
+            "sha256": "6f03bbc2846b986d74e1c000d0b8f956c4876c8c54d0de08b73975ee79d6dab2"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -25,11 +25,11 @@
         },
         "ansible-runner": {
             "hashes": [
-                "sha256:39a3e3af7beaadfed80659dad1a09771c04758d426eea48f5c4076ef0a4fcdfc",
-                "sha256:4a76ee28a38cff8c3c873c2dc4d39194ced3d47b399b3218d1b2d3726b5251b3"
+                "sha256:75f41f3a6126c326b2099f69be52f5adce92f2ef62d130f30151b8d9e2bdbbdc",
+                "sha256:7684612f7543c5f07f3e8135667eeb22a9dbd98f625cc69901ba9924329ef24f"
             ],
             "index": "pypi",
-            "version": "==2.0.4"
+            "version": "==2.1.1"
         },
         "ansible-runner-http": {
             "hashes": [
@@ -52,7 +52,7 @@
                 "sha256:0d9c601124e5a6ba9712dbc60d9c53c21e34f5f641fe83002317394311bdce14",
                 "sha256:90c1a32f1d68f940488354e36370f6cca89f0f106db09518524c88d6ed83f382"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==2022.9.24"
         },
         "cffi": {
@@ -205,7 +205,7 @@
                 "sha256:9900f12ae92007533247167d14cdee949cd8c7721f88b4a7da5f5351da3834cd",
                 "sha256:da19d58865cf903a8c7b9c3691a2e6315d583a98f0659964656dfdf645bf7e49"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==24.2.0"
         },
         "lockfile": {
@@ -400,7 +400,7 @@
                 "sha256:e61ceaab6f49fb8bdfaa0f92c4b57bcfbea54c09277b1b4f7ac376bfb7a7c174",
                 "sha256:f84fbc98b019fef2ee9a1cb3ce93e3187a6df0b2538a651bfb890254ba9f90b5"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==6.0"
         },
         "requests": {
@@ -434,7 +434,7 @@
                 "sha256:90260d9058e514786967344d0ef75fa8727eed8a7d2e43ce9f4bcf1b536174f7",
                 "sha256:e38464a49c6c85d7f1351b0126661487a7e0a14a50f1675ec50eb34d4f20ef21"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==4.9"
         },
         "setuptools": {
